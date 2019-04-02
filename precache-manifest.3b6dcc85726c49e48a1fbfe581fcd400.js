@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/smartcampus/static/css/main.3b0076e1.chunk.css"
   },
   {
-    "revision": "86ba4478946ab91c63569a77c120b46c",
+    "revision": "8a82c15c8ac6f72bc4984e2e751d1027",
     "url": "/smartcampus/index.html"
   }
 ];

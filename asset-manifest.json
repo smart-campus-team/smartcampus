@@ -1,13 +1,13 @@
 {
-  "main.css": "/smart-campus/static/css/main.3b0076e1.chunk.css",
-  "main.js": "/smart-campus/static/js/main.0b94e411.chunk.js",
-  "main.js.map": "/smart-campus/static/js/main.0b94e411.chunk.js.map",
-  "runtime~main.js": "/smart-campus/static/js/runtime~main.e7c8a0a9.js",
-  "runtime~main.js.map": "/smart-campus/static/js/runtime~main.e7c8a0a9.js.map",
-  "static/js/2.699838e2.chunk.js": "/smart-campus/static/js/2.699838e2.chunk.js",
-  "static/js/2.699838e2.chunk.js.map": "/smart-campus/static/js/2.699838e2.chunk.js.map",
-  "index.html": "/smart-campus/index.html",
-  "precache-manifest.56bffc4cebed5c9d70de7224fddc6c66.js": "/smart-campus/precache-manifest.56bffc4cebed5c9d70de7224fddc6c66.js",
-  "service-worker.js": "/smart-campus/service-worker.js",
-  "static/css/main.3b0076e1.chunk.css.map": "/smart-campus/static/css/main.3b0076e1.chunk.css.map"
+  "main.css": "/smartcampus/static/css/main.3b0076e1.chunk.css",
+  "main.js": "/smartcampus/static/js/main.952ddc4e.chunk.js",
+  "main.js.map": "/smartcampus/static/js/main.952ddc4e.chunk.js.map",
+  "runtime~main.js": "/smartcampus/static/js/runtime~main.aa19e4fe.js",
+  "runtime~main.js.map": "/smartcampus/static/js/runtime~main.aa19e4fe.js.map",
+  "static/js/2.699838e2.chunk.js": "/smartcampus/static/js/2.699838e2.chunk.js",
+  "static/js/2.699838e2.chunk.js.map": "/smartcampus/static/js/2.699838e2.chunk.js.map",
+  "index.html": "/smartcampus/index.html",
+  "precache-manifest.479a5be5cd36436c080d5ab1b345df6e.js": "/smartcampus/precache-manifest.479a5be5cd36436c080d5ab1b345df6e.js",
+  "service-worker.js": "/smartcampus/service-worker.js",
+  "static/css/main.3b0076e1.chunk.css.map": "/smartcampus/static/css/main.3b0076e1.chunk.css.map"
 }

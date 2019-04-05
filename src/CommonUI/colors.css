@@ -1,0 +1,91 @@
+@value purple_color1: #2F1465; /* Logo Purple color */
+@value purple_color2: #7030F1; /* Light Purple color */
+@value purple_color3: #5323B1; /* Lighter Dark Purple color */
+@value purple_color4: #230F4B; /* Dark Purple */
+@value purple_color5: #661172; /* Pure Purple color */
+@value purple_color6: #D4BFFF; /* Very light purple for hover */
+
+
+@value color6: #111; /* Almost Black */
+@value color7: #f7f7f7; /* lightgrey for edit fields */
+@value color8: rgba(55, 53, 47, 0.2); /* Darker Grey */
+@value color9: rgb(54, 54, 46); /* BrownBlack */
+
+/* BORDER RADIUS */
+@value radius1: 1px;
+@value radius2: 2px;
+@value radius3: 3px;
+@value radius4: 4px;
+@value radius5: 5px;
+@value radius6: 6px;
+
+/* FONTS */
+
+@value mainFont: 'Inter';
+
+/* CONFIGURATIONS */
+.subText {
+    color: color6;
+}
+
+/* HOVER STATES */
+
+.selectedColor {
+    background-color: color7;
+}
+
+.hoverColor:hover {
+    background-color: purple_color6;
+    color: color9;
+}
+
+/* BOX SHADOW */
+
+.boxShadow {
+    border-radius: radius3;
+    box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px,
+        rgba(15, 15, 15, 0.1) 0px 2px 4px;
+    transition: background 120ms ease-in 0s;
+
+    &:hover {
+        transition: background 120ms ease-in 0s;
+        background-color: rgba(55, 53, 47, 0.03);
+    }
+}
+
+.boxShadowMenu {
+    box-shadow: rgba(15, 15, 15, 0.1) 0px 1px 0px 0px,
+        rgba(15, 15, 15, 0.1) 0px 2px 0px 0px;
+        transition: background 120ms ease-in 0s;
+
+    &:hover {
+        transition: background 120ms ease-in 0s;
+        background-color: rgba(55, 53, 47, 0.03);
+    }
+}
+
+/* BORDER RADIUS */
+
+.nakedButton {
+    padding: 3px 8px 3px 8px;
+    border-radius: radius3;
+    font-weight: 500;
+}
+
+.buttonRadius {
+    border-radius: radius5;
+}
+
+.buttonRadiusSmall {
+    border-radius: radius3;
+}
+
+.radius5 {
+    border-radius: 5px;
+}
+
+.boxShadow {
+    box-shadow: rgba(15, 15, 15, 0.05) 0px 0px 0px 1px,
+    rgba(15, 15, 15, 0.1) 0px 5px 10px
+    /* rgba(15, 15, 15, 0.2) 0px 15px 30px; */
+}

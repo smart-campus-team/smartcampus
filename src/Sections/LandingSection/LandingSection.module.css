@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.logo {
+    max-width: 100%;
+}
+
+.resizeImage {
+    width: 100%;
+    height: auto;
+}

@@ -5,7 +5,6 @@ export class FooterSection extends Component{
         return (
             <div>
                 <p>
-                    Footer Sections
                 </p>
             </div>
         )

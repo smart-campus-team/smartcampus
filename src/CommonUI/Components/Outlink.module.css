@@ -1,0 +1,4 @@
+.link {
+    text-decoration: none;
+    composes: subText from '../colors.css';
+}

@@ -4,9 +4,12 @@
   "private": true,
   "homepage": "http://smart-campus.github.io/smartcampus/",
   "dependencies": {
+    "babel-plugin-react-css-modules": "^5.2.4",
+    "classnames": "^2.2.6",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-lazyload": "^2.5.0",
     "react-scripts": "2.1.8",
     "webfontloader": "^1.6.28"
   },

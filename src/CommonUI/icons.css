@@ -1,0 +1,26 @@
+/* CONFIGURATION */
+
+.iconConfig {
+    width: 20px;
+    height: 20px;
+    background-size: 25px;
+    display: inline-flex;
+    vertical-align: middle;
+}
+
+.iconPosition {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    display: flex;
+}
+
+/* LOGOS */
+
+/* OTHER */
+.menuIcon {
+    composes: iconPosition;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('./img/menu-filled.svg');
+}

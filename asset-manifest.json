@@ -1,5 +1,5 @@
 {
-  "main.css": "/smartcampus/static/css/main.b3909a3f.chunk.css",
+  "main.css": "/smartcampus/static/css/main.febf29e2.chunk.css",
   "main.js": "/smartcampus/static/js/main.b2e1b687.chunk.js",
   "main.js.map": "/smartcampus/static/js/main.b2e1b687.chunk.js.map",
   "runtime~main.js": "/smartcampus/static/js/runtime~main.aa19e4fe.js",
@@ -7,9 +7,9 @@
   "static/js/2.1517ce80.chunk.js": "/smartcampus/static/js/2.1517ce80.chunk.js",
   "static/js/2.1517ce80.chunk.js.map": "/smartcampus/static/js/2.1517ce80.chunk.js.map",
   "index.html": "/smartcampus/index.html",
-  "precache-manifest.249528e45639c275d9a4808fdb2f0724.js": "/smartcampus/precache-manifest.249528e45639c275d9a4808fdb2f0724.js",
+  "precache-manifest.8abc6fba472a008c32909275a5f7f187.js": "/smartcampus/precache-manifest.8abc6fba472a008c32909275a5f7f187.js",
   "service-worker.js": "/smartcampus/service-worker.js",
-  "static/css/main.b3909a3f.chunk.css.map": "/smartcampus/static/css/main.b3909a3f.chunk.css.map",
+  "static/css/main.febf29e2.chunk.css.map": "/smartcampus/static/css/main.febf29e2.chunk.css.map",
   "static/media/landing_logo.png": "/smartcampus/static/media/landing_logo.9f0ce9c4.png",
   "static/media/logo_small.png": "/smartcampus/static/media/logo_small.7978f329.png",
   "static/media/HeaderSection.module.css": "/smartcampus/static/media/menu-filled.7116b314.svg"

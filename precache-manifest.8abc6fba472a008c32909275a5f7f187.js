@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "a237b122439166f5fbd5",
-    "url": "/smartcampus/static/css/main.b3909a3f.chunk.css"
+    "revision": "2042529a6397d56fd3fa",
+    "url": "/smartcampus/static/css/main.febf29e2.chunk.css"
   },
   {
-    "revision": "a237b122439166f5fbd5",
+    "revision": "2042529a6397d56fd3fa",
     "url": "/smartcampus/static/js/main.b2e1b687.chunk.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/smartcampus/static/media/landing_logo.9f0ce9c4.png"
   },
   {
-    "revision": "74b8567a56c78d6be1874ddb55642304",
+    "revision": "ab5b08427e31b9d82908ca6b042cf5b9",
     "url": "/smartcampus/index.html"
   }
 ];

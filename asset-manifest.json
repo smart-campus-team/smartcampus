@@ -1,15 +1,16 @@
 {
-  "main.css": "/smartcampus/static/css/main.2a0a4c86.chunk.css",
-  "main.js": "/smartcampus/static/js/main.77c52398.chunk.js",
-  "main.js.map": "/smartcampus/static/js/main.77c52398.chunk.js.map",
+  "main.css": "/smartcampus/static/css/main.b3909a3f.chunk.css",
+  "main.js": "/smartcampus/static/js/main.b2e1b687.chunk.js",
+  "main.js.map": "/smartcampus/static/js/main.b2e1b687.chunk.js.map",
   "runtime~main.js": "/smartcampus/static/js/runtime~main.aa19e4fe.js",
   "runtime~main.js.map": "/smartcampus/static/js/runtime~main.aa19e4fe.js.map",
-  "static/js/2.b6b5757c.chunk.js": "/smartcampus/static/js/2.b6b5757c.chunk.js",
-  "static/js/2.b6b5757c.chunk.js.map": "/smartcampus/static/js/2.b6b5757c.chunk.js.map",
+  "static/js/2.1517ce80.chunk.js": "/smartcampus/static/js/2.1517ce80.chunk.js",
+  "static/js/2.1517ce80.chunk.js.map": "/smartcampus/static/js/2.1517ce80.chunk.js.map",
   "index.html": "/smartcampus/index.html",
-  "precache-manifest.6034de7fd39443f74a00836c129ed20e.js": "/smartcampus/precache-manifest.6034de7fd39443f74a00836c129ed20e.js",
+  "precache-manifest.249528e45639c275d9a4808fdb2f0724.js": "/smartcampus/precache-manifest.249528e45639c275d9a4808fdb2f0724.js",
   "service-worker.js": "/smartcampus/service-worker.js",
-  "static/css/main.2a0a4c86.chunk.css.map": "/smartcampus/static/css/main.2a0a4c86.chunk.css.map",
-  "static/media/HeaderSection.module.css": "/smartcampus/static/media/menu-filled.7116b314.svg",
-  "static/media/sclogo_4.png": "/smartcampus/static/media/sclogo_4.88b3c3c7.png"
+  "static/css/main.b3909a3f.chunk.css.map": "/smartcampus/static/css/main.b3909a3f.chunk.css.map",
+  "static/media/landing_logo.png": "/smartcampus/static/media/landing_logo.9f0ce9c4.png",
+  "static/media/logo_small.png": "/smartcampus/static/media/logo_small.7978f329.png",
+  "static/media/HeaderSection.module.css": "/smartcampus/static/media/menu-filled.7116b314.svg"
 }

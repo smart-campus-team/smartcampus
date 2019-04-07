@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/smartcampus/precache-manifest.8abc6fba472a008c32909275a5f7f187.js"
+  "/smartcampus/precache-manifest.96dbc33903bb22ae77dd0cacba46cb05.js"
 );
 
 workbox.clientsClaim();
